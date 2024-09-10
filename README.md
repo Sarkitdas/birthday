@@ -1,1 +1,1 @@
-https://sarkitdas.github.io/birthday/
+https://sarkitdas.github.io/birthday/birth.html
